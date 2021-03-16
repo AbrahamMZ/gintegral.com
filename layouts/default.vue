@@ -33,7 +33,7 @@ html {
 
 .gradient {
   /* background: linear-gradient(90deg, #6200ee 0%, #03dac5 100%); */
-  background: linear-gradient(90deg, #affff867 0%, #03ad9c 100%);
+  background: linear-gradient(90deg, #398d7e50 0%, #398d7d 100%);
   /* background: linear-gradient(90deg, #d53369 0%, #daae51 100%); */
 }
 </style>
