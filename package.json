@@ -1,11 +1,11 @@
 {
-  "name": "tailwind_landing_nuxt",
+  "name": "gintgralb",
   "version": "1.0.0",
-  "description": "Tailwind Landing Page (Nuxt.js Version)",
+  "description": "Proyetco de Integral Bajio",
   "author": {
-    "name": "Vanessa Böhner",
-    "email": "boehner.vanessa@gmail.com",
-    "url": "https://vannsl.io/"
+    "name": "Abraham Martinez",
+    "email": "mga.abraham@gmail.com",
+    "url": "https://gintegralb.com"
   },
   "private": true,
   "scripts": {

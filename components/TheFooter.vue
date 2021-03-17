@@ -81,6 +81,14 @@
           <p class="uppercase text-gray-500 md:mb-6">Contacto</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <p
+                class="no-underline hover:underline text-gray-800 hover:text-orange-500"
+              >
+                Domicilio: RET FUERZAS ZAPATISTAS #140 BOSQUES DE LA ALAMEDA
+                C.P. 38033 CELAYA, GUANAJUATO
+              </p>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-orange-500"
