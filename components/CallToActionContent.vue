@@ -3,7 +3,7 @@
     <h1
       class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
     >
-      Call to Action
+      Anuncio
     </h1>
     <div class="w-full mb-4">
       <div
@@ -12,19 +12,22 @@
     </div>
 
     <h3 class="my-4 text-3xl leading-tight">
-      Main Hero Message to sell yourself!
+      A partir del 01 de junio 2021 celebraremos una fusión estratégica y
+      comercial con Makenzie S.A. de C.V comprometiéndonos en brindarles una
+      gran calidad y satisfacción de servicio además de una amplia gama de
+      oportunidades para tu negocio.
     </h3>
 
-    <button
+    <!-- <button
       class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg"
     >
       Action!
-    </button>
+    </button> -->
   </section>
 </template>
 
 <script>
 export default {
-  name: 'CallToActionContent'
-}
+  name: "CallToActionContent",
+};
 </script>

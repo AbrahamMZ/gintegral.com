@@ -7,10 +7,8 @@
       <p class="text-gray-600 mb-8">
         {{ content }}
         <br />
-        <br />Images from:
-        <a class="text-orange-500 underline" href="https://undraw.co/"
-          >undraw.co</a
-        >
+        <br />
+        <slot name="tag" />
       </p>
     </div>
     <div class="w-full sm:w-1/2 p-6">
@@ -21,16 +19,16 @@
 
 <script>
 export default {
-  name: 'FeatureRight',
+  name: "FeatureRight",
   props: {
     headline: {
       type: String,
-      required: false
+      required: false,
     },
     content: {
       type: String,
-      required: false
-    }
-  }
-}
+      required: false,
+    },
+  },
+};
 </script>

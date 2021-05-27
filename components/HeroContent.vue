@@ -4,7 +4,7 @@
       class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center"
     >
       <!--Right Col-->
-      <div class=" text-center w-full md:w-2/5 justify-center">
+      <div class="text-center w-full md:w-2/5 justify-center">
         <img class="w-full md:w-4/5 z-50" src="~/assets/img/logo.png" alt />
       </div>
       <!--Left Col-->
@@ -18,7 +18,9 @@
           Nosotros te ayudamos a Desarrollar tu potencial
         </h1>
         <p class="leading-normal text-2xl mb-8">
-          Servicios profesionales, publicidad, tu sitio web y muchos mas...
+          Consultoría Jurídica, Psicológica, Laboral, Administrativa y
+          Financiera. Reclutamiento, Capacitación, Certificaciones ISO,
+          Publicidad y más…
         </p>
 
         <!-- <button
@@ -33,6 +35,6 @@
 
 <script>
 export default {
-  name: 'HeroContent'
-}
+  name: "HeroContent",
+};
 </script>
